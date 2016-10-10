@@ -37,7 +37,7 @@ class QRgenerator(tk.Tk):
 def qr_2(size,url_in,path):
     print('\n\n\n\n1  being smaller \n40 being bigger')
     num = size
-    # url = 'https://www.instagram.com/jayrfitz/?hl=en'
+    # url = 
     url = url_in
     pic = path
 
